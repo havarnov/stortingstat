@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/stortingsskam.app.fsproj": {}
+  },
+  "projects": {
+    "/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/stortingsskam.app.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/stortingsskam.app.fsproj",
+        "projectName": "stortingsskam.app",
+        "projectPath": "/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/stortingsskam.app.fsproj",
+        "packagesPath": "/Users/havarnov/.nuget/packages/",
+        "outputPath": "/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/havarnov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://esmartsystems.pkgs.visualstudio.com/_packaging/eSmart/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "FSharpx.Async": {
+              "target": "Package",
+              "version": "[1.14.1, )"
+            },
+            "Giraffe": {
+              "target": "Package",
+              "version": "[3.5.*, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "TaskBuilder.fs": {
+              "target": "Package",
+              "version": "[2.1.*, )"
+            },
+            "fsharp.data": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100-preview8-013656/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/bin/Debug/netcoreapp2.1/WebRoot/main.css
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/obj/Debug/netcoreapp2.1/stortingsskam.app.fsprojAssemblyReference.cache
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/obj/Debug/netcoreapp2.1/stortingsskam.app.AssemblyInfoInputs.cache
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/obj/Debug/netcoreapp2.1/stortingsskam.app.AssemblyInfo.fs
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/obj/Debug/netcoreapp2.1/stortingsskam.app.dll
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/obj/Debug/netcoreapp2.1/stortingsskam.app.pdb
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/bin/Debug/netcoreapp2.1/stortingsskam.app.deps.json
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/bin/Debug/netcoreapp2.1/stortingsskam.app.runtimeconfig.json
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/bin/Debug/netcoreapp2.1/stortingsskam.app.runtimeconfig.dev.json
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/bin/Debug/netcoreapp2.1/stortingsskam.app.dll
+/Users/havarnov/dev/fsharp/stortingsskam/src/stortingsskam.app/bin/Debug/netcoreapp2.1/stortingsskam.app.pdb
