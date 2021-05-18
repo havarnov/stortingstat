@@ -1,0 +1,35 @@
+name: run-stortingstat
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # At 00:00. every night.
+    - cron:  '0 0 * * *'
+
+jobs:
+  run-stortingstat:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 'checkout'
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: 'install dotnet 5.0.x'
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '5.0.x'
+
+      - name: 'run stortingstat for last year and possible next year'
+        run: |
+          mkdir -p tilstede 
+          out=$(dotnet run --project src/stortingstat/stortingstat.fsproj -- $(($(date +"%Y") - 1))-$(date +"%Y")) && [[ -n "$out" ]] && echo "$out" > tilstede/$(($(date +"%Y") - 1))-$(date +"%Y").csv
+          out=$(dotnet run --project src/stortingstat/stortingstat.fsproj -- $(date +"%Y")-$(($(date +"%Y") + 1))) && [[ -n "$out" ]] && echo "$out" > tilstede/$(date +"%Y")-$(($(date +"%Y") + 1)).csv || true
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'Updated csv file from scheduled github action.'
+          file_pattern: '**/*.csv'
+
