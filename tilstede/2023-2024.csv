@@ -1,177 +1,189 @@
 Navn,Parti,Totalt,Tilstede,Tilstede(%)
-"Ulstein, Dag-Inge",Kristelig Folkeparti,82,0,0
-"Frølich, Peter",Høyre,82,0,0
-"Vågslid, Lene",Arbeiderpartiet,82,0,0
-"Gharahkhani, Masud",Arbeiderpartiet,82,0,0
-"Bollestad, Olaug Vervik",Kristelig Folkeparti,82,0,0
-"Hoksrud, Bård",Fremskrittspartiet,82,0,0
-"Huitfeldt, Anniken",Arbeiderpartiet,64,0,0
-"Solberg, Erna",Høyre,82,0,0
-"Bergstø, Kirsti",Sosialistisk Venstreparti,82,0,0
-"Persen, Marte Mjøs",Arbeiderpartiet,64,0,0
-"Nordlund, Willfred",Senterpartiet,82,0,0
-"Kaski, Kari Elisabeth",Sosialistisk Venstreparti,82,0,0
+"Nordlund, Willfred",Senterpartiet,92,0,0
+"Sølberg, Signe Bakke",Miljøpartiet De Grønne,10,0,0
+"Sem-Jacobsen, Åslaug",Senterpartiet,92,0,0
+"Bergstø, Kirsti",Sosialistisk Venstreparti,92,0,0
+"Westrum, Stine",Rødt,10,0,0
+"Vågslid, Lene",Arbeiderpartiet,92,0,0
+"Kaski, Kari Elisabeth",Sosialistisk Venstreparti,92,0,0
+"Hoksrud, Bård",Fremskrittspartiet,92,0,0
+"Listhaug, Sylvi",Fremskrittspartiet,92,0,0
+"Framnes, Sigbjørn",Fremskrittspartiet,10,0,0
+"Gharahkhani, Masud",Arbeiderpartiet,92,0,0
+"Solberg, Erna",Høyre,92,0,0
 "Myrseth, Cecilie",Arbeiderpartiet,18,0,0
-"Klinge, Jenny",Senterpartiet,82,0,0
-"Røed, Even A.",Arbeiderpartiet,82,0,0
-"Listhaug, Sylvi",Fremskrittspartiet,82,0,0
-"Melby, Guri",Venstre,82,0,0
-"Støstad, Rune",Arbeiderpartiet,82,0,0
-"Karlsen, Tom Einar",Arbeiderpartiet,64,0,0
-"Sem-Jacobsen, Åslaug",Senterpartiet,82,0,0
-"Myrli, Sverre",Arbeiderpartiet,82,18,22
-"Trøen, Tone Wilhelmsen",Høyre,82,18,22
-"Mossleth, Siv",Senterpartiet,82,18,22
-"Foss, Ingunn",Høyre,82,18,22
+"Melby, Guri",Venstre,92,0,0
+"Bollestad, Olaug Vervik",Kristelig Folkeparti,92,0,0
+"Frølich, Peter",Høyre,92,8,8.7
+"Persen, Marte Mjøs",Arbeiderpartiet,74,8,10.8
+"Ulstein, Dag-Inge",Kristelig Folkeparti,92,10,10.9
+"Støstad, Rune",Arbeiderpartiet,92,10,10.9
+"Klinge, Jenny",Senterpartiet,92,10,10.9
+"Røed, Even A.",Arbeiderpartiet,92,10,10.9
+"Karlsen, Tom Einar",Arbeiderpartiet,74,9,12.2
+"Huitfeldt, Anniken",Arbeiderpartiet,74,10,13.5
+"Foss, Ingunn",Høyre,92,18,19.6
 "Saudland, Gisle Meininger",Fremskrittspartiet,82,18,22
-"Blikra, Jone",Arbeiderpartiet,82,18,22
-"Bjørlo, Alfred Jens",Venstre,82,18,22
-"Raja, Abid",Venstre,82,24,29.3
-"Hansson, Rasmus",Miljøpartiet De Grønne,82,24,29.3
-"Bjørke, Nils T.",Senterpartiet,82,25,30.5
-"Vitanza, Solveig",Arbeiderpartiet,82,25,30.5
-"Wold, Morten",Fremskrittspartiet,82,25,30.5
-"Nyholt, Hege Bae",Rødt,82,25,30.5
-"Bru, Tina",Høyre,82,25,30.5
-"Johnsen, Tor André",Fremskrittspartiet,82,25,30.5
-"Jørgensen, Geir",Rødt,82,25,30.5
-"Myhrvold, Ole André",Senterpartiet,82,25,30.5
-"Asheim, Henrik",Høyre,82,25,30.5
-"Strand, Marit Knutsdatter",Senterpartiet,82,25,30.5
-"Moflag, Tuva",Arbeiderpartiet,82,25,30.5
-"Pettersen, Tage",Høyre,82,25,30.5
-"Strifeldt, Bengt Rune",Fremskrittspartiet,82,25,30.5
-"Sanner, Jan Tore",Høyre,82,25,30.5
-"Helleland, Linda Hofstad",Høyre,82,25,30.5
-"Skjæran, Bjørnar",Arbeiderpartiet,64,24,37.5
-"Vasvik, Truls",Arbeiderpartiet,64,25,39.1
-"Moe, Ola Borten",Senterpartiet,82,36,43.9
-"Helleland, Trond",Høyre,82,36,43.9
-"Martinussen, Marie Sneve",Rødt,82,36,43.9
-"Farahmand, Mahmoud",Høyre,82,38,46.3
-"Greni, Heidi",Senterpartiet,82,39,47.6
-"Schou, Ingjerd Schie",Høyre,82,39,47.6
-"Søreide, Ine Eriksen",Høyre,82,39,47.6
-"Westgaard-Halle, Lene",Høyre,82,39,47.6
-"Selnes, Lise",Arbeiderpartiet,82,39,47.6
-"Jacobsen, Frode",Arbeiderpartiet,82,39,47.6
-"Sandtrøen, Per Martin",Senterpartiet,82,39,47.6
-"Aydar, Seher",Rødt,82,39,47.6
-"Almeland, Grunde",Venstre,82,39,47.6
-"Leirtrø, Kirsti",Arbeiderpartiet,82,39,47.6
+"Myrli, Sverre",Arbeiderpartiet,82,18,22
+"Bru, Tina",Høyre,92,25,27.2
+"Strand, Marit Knutsdatter",Senterpartiet,92,25,27.2
+"Helleland, Linda Hofstad",Høyre,92,25,27.2
+"Asheim, Henrik",Høyre,92,25,27.2
+"Myhrvold, Ole André",Senterpartiet,92,25,27.2
+"Wold, Morten",Fremskrittspartiet,92,25,27.2
+"Sanner, Jan Tore",Høyre,92,25,27.2
+"Johnsen, Tor André",Fremskrittspartiet,92,25,27.2
+"Mossleth, Siv",Senterpartiet,92,27,29.3
+"Trøen, Tone Wilhelmsen",Høyre,92,28,30.4
+"Bjørlo, Alfred Jens",Venstre,92,28,30.4
+"Blikra, Jone",Arbeiderpartiet,92,28,30.4
+"Hansson, Rasmus",Miljøpartiet De Grønne,92,30,32.6
+"Vasvik, Truls",Arbeiderpartiet,74,25,33.8
+"Raja, Abid",Venstre,92,34,37
+"Jørgensen, Geir",Rødt,92,35,38
+"Pettersen, Tage",Høyre,92,35,38
+"Strifeldt, Bengt Rune",Fremskrittspartiet,92,35,38
+"Nyholt, Hege Bae",Rødt,92,35,38
+"Bjørke, Nils T.",Senterpartiet,92,35,38
+"Moflag, Tuva",Arbeiderpartiet,92,35,38
+"Vitanza, Solveig",Arbeiderpartiet,92,35,38
+"Martinussen, Marie Sneve",Rødt,92,36,39.1
+"Greni, Heidi",Senterpartiet,92,39,42.4
+"Aydar, Seher",Rødt,92,39,42.4
+"Leirtrø, Kirsti",Arbeiderpartiet,92,39,42.4
+"Staalesen, Siri Gåsemyr",Arbeiderpartiet,92,39,42.4
+"Schou, Ingjerd Schie",Høyre,92,39,42.4
+"Selnes, Lise",Arbeiderpartiet,92,39,42.4
+"Westgaard-Halle, Lene",Høyre,92,39,42.4
+"Rotevatn, Sveinung",Venstre,92,42,45.7
+"Bøe, Erlend Svardal",Høyre,92,42,45.7
+"Moe, Ola Borten",Senterpartiet,92,42,45.7
+"Skjæran, Bjørnar",Arbeiderpartiet,74,34,45.9
+"Lundteigen, Per Olaf",Senterpartiet,92,43,46.7
+"Solberg, Torstein Tvedt",Arbeiderpartiet,92,43,46.7
+"Ojala, Irene",Pasientfokus,92,43,46.7
+"Klungland, Lisa Marie Ness",Senterpartiet,92,43,46.7
 "Trettebergstuen, Anette",Arbeiderpartiet,82,39,47.6
-"Lysbakken, Audun",Sosialistisk Venstreparti,82,39,47.6
-"Staalesen, Siri Gåsemyr",Arbeiderpartiet,82,39,47.6
 "Henriksen, Kari",Arbeiderpartiet,82,39,47.6
-"Grotle, Olve",Høyre,82,41,50
-"Rotevatn, Sveinung",Venstre,82,42,51.2
+"Sandtrøen, Per Martin",Senterpartiet,82,39,47.6
+"Helleland, Trond",Høyre,92,45,48.9
+"Farahmand, Mahmoud",Høyre,92,46,50
 "Bastholm, Une",Miljøpartiet De Grønne,82,42,51.2
-"Bøe, Erlend Svardal",Høyre,82,42,51.2
-"Harberg, Svein",Høyre,82,42,51.2
-"Sandtrøen, Nils Kristen",Arbeiderpartiet,82,43,52.4
-"Sjåstad, Runar",Arbeiderpartiet,82,43,52.4
-"Lundteigen, Per Olaf",Senterpartiet,82,43,52.4
-"Madland, Tove Elise",Arbeiderpartiet,82,43,52.4
-"Limi, Hans Andreas",Fremskrittspartiet,82,43,52.4
-"Fiskaa, Ingrid",Sosialistisk Venstreparti,82,43,52.4
 "Mykjåland, Gro-Anita",Senterpartiet,82,43,52.4
-"Kristjánsson, Mímir",Rødt,82,43,52.4
-"Klungland, Lisa Marie Ness",Senterpartiet,82,43,52.4
-"Astrup, Nikolai",Høyre,82,43,52.4
-"Tyldum, Per Olav",Senterpartiet,82,43,52.4
-"Solberg, Torstein Tvedt",Arbeiderpartiet,82,43,52.4
-"Nilsen, Mona",Arbeiderpartiet,82,43,52.4
-"Gunaratnam, Kamzy",Arbeiderpartiet,82,43,52.4
-"Bjørnstad, Sivert",Fremskrittspartiet,82,43,52.4
-"Ojala, Irene",Pasientfokus,82,43,52.4
-"Marhaug, Sofie",Rødt,82,43,52.4
-"Øvstegård, Freddy André",Sosialistisk Venstreparti,82,43,52.4
-"Hussein, Marian",Sosialistisk Venstreparti,82,43,52.4
-"Gjelsvik, Sigbjørn",Senterpartiet,64,39,60.9
-"Berg, Lan Marie Nguyen",Miljøpartiet De Grønne,82,50,61
-"Skjelstad, André N.",Venstre,82,56,68.3
-"Lønseth, Mari Holm",Høyre,82,56,68.3
-"Lund, Tobias Drevland",Rødt,82,57,69.5
-"Amundsen, Per-Willy",Fremskrittspartiet,82,57,69.5
-"Arnstad, Marit",Senterpartiet,82,57,69.5
-"Bakke, Åse Kristin Ask",Arbeiderpartiet,82,57,69.5
-"Eskeland, Liv Kari",Høyre,82,57,69.5
-"Fagerås, Mona",Sosialistisk Venstreparti,82,57,69.5
-"Wiborg, Erlend",Fremskrittspartiet,82,57,69.5
-"Hagerup, Margret",Høyre,82,57,69.5
-"Halleland, Terje",Fremskrittspartiet,82,57,69.5
-"Sve, Frank Edvard",Fremskrittspartiet,82,57,69.5
-"Iversen, Geir Adelsten",Senterpartiet,82,57,69.5
-"Kapur, Mudassar",Høyre,82,57,69.5
-"Thorheim, Bård Ludvig",Høyre,82,57,69.5
-"Sørvik, Terje",Arbeiderpartiet,82,57,69.5
-"Linnestad, Anne Kristine",Høyre,82,57,69.5
-"Stordalen, Morten",Fremskrittspartiet,82,57,69.5
-"Kjølmoen, Per Vidar",Arbeiderpartiet,82,57,69.5
-"Lien, Geir Inge",Senterpartiet,82,57,69.5
-"Larsen, Erlend",Høyre,82,57,69.5
-"Kleveland, Kathrine",Senterpartiet,82,57,69.5
-"Lagesen, May Britt",Arbeiderpartiet,82,57,69.5
+"Almeland, Grunde",Venstre,92,49,53.3
+"Jacobsen, Frode",Arbeiderpartiet,92,49,53.3
+"Søreide, Ine Eriksen",Høyre,92,49,53.3
+"Lysbakken, Audun",Sosialistisk Venstreparti,92,49,53.3
+"Grotle, Olve",Høyre,92,51,55.4
+"Harberg, Svein",Høyre,92,52,56.5
+"Nilsen, Mona",Arbeiderpartiet,92,52,56.5
+"Limi, Hans Andreas",Fremskrittspartiet,92,53,57.6
+"Marhaug, Sofie",Rødt,92,53,57.6
+"Sandtrøen, Nils Kristen",Arbeiderpartiet,92,53,57.6
+"Hussein, Marian",Sosialistisk Venstreparti,92,53,57.6
+"Sjåstad, Runar",Arbeiderpartiet,92,53,57.6
+"Gunaratnam, Kamzy",Arbeiderpartiet,92,53,57.6
+"Tyldum, Per Olav",Senterpartiet,92,53,57.6
+"Fiskaa, Ingrid",Sosialistisk Venstreparti,92,53,57.6
+"Øvstegård, Freddy André",Sosialistisk Venstreparti,92,53,57.6
+"Bjørnstad, Sivert",Fremskrittspartiet,92,53,57.6
+"Astrup, Nikolai",Høyre,92,53,57.6
+"Kristjánsson, Mímir",Rødt,92,53,57.6
+"Madland, Tove Elise",Arbeiderpartiet,92,53,57.6
+"Østensen, Kai Steffen",Arbeiderpartiet,10,6,60
+"Abrahamsen, Stig Atle",Fremskrittspartiet,10,6,60
+"Skjelstad, André N.",Venstre,92,56,60.9
+"Kleveland, Kathrine",Senterpartiet,92,57,62
+"Wiborg, Erlend",Fremskrittspartiet,92,57,62
+"Halleland, Terje",Fremskrittspartiet,92,57,62
+"Lund, Tobias Drevland",Rødt,92,57,62
+"Arnstad, Marit",Senterpartiet,92,57,62
+"Lagesen, May Britt",Arbeiderpartiet,92,57,62
+"Bakke, Åse Kristin Ask",Arbeiderpartiet,92,57,62
+"Berg, Lan Marie Nguyen",Miljøpartiet De Grønne,92,60,65.2
+"Gjelsvik, Sigbjørn",Senterpartiet,74,49,66.2
+"Trellevik, Ove",Høyre,92,62,67.4
+"Jønnes, Kari-Anne",Høyre,92,62,67.4
+"Asphjell, Jorodd",Arbeiderpartiet,92,62,67.4
+"Waagen, Elise",Arbeiderpartiet,92,63,68.5
+"Haltbrekken, Lars",Sosialistisk Venstreparti,92,63,68.5
 "Moxnes, Bjørnar",Rødt,82,57,69.5
-"Kjerstad, Birgit Oline",Sosialistisk Venstreparti,82,57,69.5
-"Stensland, Sveinung",Høyre,82,61,74.4
-"Asphjell, Jorodd",Arbeiderpartiet,82,62,75.6
-"Trellevik, Ove",Høyre,82,62,75.6
+"Thorheim, Bård Ludvig",Høyre,82,57,69.5
+"Aasrud, Rigmor",Arbeiderpartiet,92,64,69.6
+"Aasen-Svensrud, Maria",Arbeiderpartiet,92,64,69.6
+"Hagen, Carl I.",Fremskrittspartiet,92,64,69.6
+"Wold, Grete",Sosialistisk Venstreparti,92,64,69.6
+"Funderud, Kjerstin Wøyen",Senterpartiet,92,64,69.6
+"Tajik, Hadia",Arbeiderpartiet,92,64,69.6
+"Abusland, Anja Ninasdotter",Senterpartiet,92,64,69.6
+"Kvensjø, Marianne Dobak",Høyre,10,7,70
+"Lønseth, Mari Holm",Høyre,92,66,71.7
+"Hagerup, Margret",Høyre,92,67,72.8
+"Linnestad, Anne Kristine",Høyre,92,67,72.8
+"Stordalen, Morten",Fremskrittspartiet,92,67,72.8
+"Lien, Geir Inge",Senterpartiet,92,67,72.8
+"Sørvik, Terje",Arbeiderpartiet,92,67,72.8
+"Amundsen, Per-Willy",Fremskrittspartiet,92,67,72.8
+"Sve, Frank Edvard",Fremskrittspartiet,92,67,72.8
+"Iversen, Geir Adelsten",Senterpartiet,92,67,72.8
+"Larsen, Erlend",Høyre,92,67,72.8
+"Kapur, Mudassar",Høyre,92,67,72.8
+"Kjerstad, Birgit Oline",Sosialistisk Venstreparti,92,67,72.8
+"Kjølmoen, Per Vidar",Arbeiderpartiet,92,67,72.8
+"Fagerås, Mona",Sosialistisk Venstreparti,92,67,72.8
+"Eskeland, Liv Kari",Høyre,92,67,72.8
 "Njåstad, Helge André",Fremskrittspartiet,82,62,75.6
-"Jønnes, Kari-Anne",Høyre,82,62,75.6
-"Waagen, Elise",Arbeiderpartiet,82,63,76.8
-"Haltbrekken, Lars",Sosialistisk Venstreparti,82,63,76.8
-"Tajik, Hadia",Arbeiderpartiet,82,64,78
-"Aasen-Svensrud, Maria",Arbeiderpartiet,82,64,78
-"Aasrud, Rigmor",Arbeiderpartiet,82,64,78
-"Wold, Grete",Sosialistisk Venstreparti,82,64,78
-"Abusland, Anja Ninasdotter",Senterpartiet,82,64,78
-"Hagen, Carl I.",Fremskrittspartiet,82,64,78
-"Gulati, Himanshu",Fremskrittspartiet,82,64,78
-"Elvenes, Hårek",Høyre,82,64,78
-"Elvestuen, Ola",Venstre,82,64,78
-"Funderud, Kjerstin Wøyen",Senterpartiet,82,64,78
-"Thorsvik, Ingvild Wetrhus",Venstre,82,79,96.3
-"Eidesen, Tor Inge",Senterpartiet,82,79,96.3
-"Stokkebø, Aleksander",Høyre,82,79,96.3
-"Heen, Aleksander Øren",Senterpartiet,64,62,96.9
-"Foshaug, Nils-Ole",Arbeiderpartiet,82,80,97.6
-"Tybring-Gjedde, Mathilde",Høyre,82,81,98.8
-"Ropstad, Kjell Ingolf",Kristelig Folkeparti,82,82,100
-"Hansen, Eva Kristin",Arbeiderpartiet,82,82,100
-"Unneland, Andreas Sjalg",Sosialistisk Venstreparti,82,82,100
-"Vereide, Torbjørn",Arbeiderpartiet,82,82,100
-"Fasteraune, Bengt",Senterpartiet,82,82,100
-"Christoffersen, Lise",Arbeiderpartiet,82,82,100
-"Bruflot, Sandra",Høyre,82,82,100
+"Stensland, Sveinung",Høyre,92,71,77.2
+"Aaland, Bente Irene",Arbeiderpartiet,10,8,80
+"Elvestuen, Ola",Venstre,92,74,80.4
+"Gulati, Himanshu",Fremskrittspartiet,92,74,80.4
+"Elvenes, Hårek",Høyre,92,74,80.4
+"Stokkebø, Aleksander",Høyre,92,79,85.9
+"Thorsvik, Ingvild Wetrhus",Venstre,92,79,85.9
+"Tybring-Gjedde, Mathilde",Høyre,92,81,88
+"Hovland, Odd Harald",Arbeiderpartiet,92,82,89.1
+"Knutsen, Eigil",Arbeiderpartiet,92,82,89.1
+"Vereide, Torbjørn",Arbeiderpartiet,92,82,89.1
+"Lie, Kathy",Sosialistisk Venstreparti,92,82,89.1
+"Merkesdal, Linda Monsen",Arbeiderpartiet,92,82,89.1
+"Lunde, Heidi Nordby",Høyre,92,82,89.1
+"Hansen, Eva Kristin",Arbeiderpartiet,92,82,89.1
+"Bruflot, Sandra",Høyre,92,82,89.1
+"Eidesen, Tor Inge",Senterpartiet,92,89,96.7
+"Heen, Aleksander Øren",Senterpartiet,74,72,97.3
+"Foshaug, Nils-Ole",Arbeiderpartiet,92,90,97.8
+"Hjemdal, Silje",Fremskrittspartiet,82,82,100
+"Christoffersen, Lise",Arbeiderpartiet,92,92,100
+"Aukrust, Åsmund",Arbeiderpartiet,92,92,100
+"Mørland, Tellef Inge",Arbeiderpartiet,82,82,100
+"Rehman, Shakeel",Arbeiderpartiet,82,82,100
+"Andersen, Alf Erik Bergstøl",Fremskrittspartiet,10,10,100
 "Brekke, Camilla Maria",Arbeiderpartiet,18,18,100
 "Bråthen, Karianne B.",Arbeiderpartiet,18,18,100
-"Hartviksen, Ragnhild Male",Arbeiderpartiet,18,18,100
 "Jakobsen, Benjamin",Arbeiderpartiet,18,18,100
-"Aukrust, Åsmund",Arbeiderpartiet,82,82,100
-"Fylkesnes, Torgeir Knag",Sosialistisk Venstreparti,82,82,100
-"Tybring-Gjedde, Christian",Fremskrittspartiet,82,82,100
-"Hjemdal, Silje",Fremskrittspartiet,82,82,100
-"Hovland, Odd Harald",Arbeiderpartiet,82,82,100
-"Rehman, Shakeel",Arbeiderpartiet,82,82,100
-"Prestbakmo, Ivar B.",Senterpartiet,82,82,100
-"Orten, Helge",Høyre,82,82,100
-"Olsen, Dagfinn Henrik",Fremskrittspartiet,82,82,100
-"Næss, Marianne Sivertsen",Arbeiderpartiet,82,82,100
-"Nilsen, Marius Arion",Fremskrittspartiet,82,82,100
-"Steffensen, Roy",Fremskrittspartiet,82,82,100
-"Mørland, Tellef Inge",Arbeiderpartiet,82,82,100
-"Myrvold, Hans Inge",Senterpartiet,82,82,100
-"Rødby, Else Marie",Senterpartiet,82,82,100
-"Molberg, Anna",Høyre,82,82,100
-"Mathisen, Øystein",Arbeiderpartiet,82,82,100
 "Prestrud, Kari Mette",Senterpartiet,18,18,100
-"Sundnes, Trine Lise",Arbeiderpartiet,82,82,100
-"Lunde, Heidi Nordby",Høyre,82,82,100
-"Lie, Kathy",Sosialistisk Venstreparti,82,82,100
-"Kristensen, Turid",Høyre,82,82,100
-"Knutsen, Eigil",Arbeiderpartiet,82,82,100
-"Haarr, Margrethe",Senterpartiet,82,82,100
-"Hussaini, Mani",Arbeiderpartiet,82,82,100
-"Merkesdal, Linda Monsen",Arbeiderpartiet,82,82,100
+"Sundnes, Trine Lise",Arbeiderpartiet,92,92,100
+"Unneland, Andreas Sjalg",Sosialistisk Venstreparti,92,92,100
+"Løland, Kenneth Engvoll",Senterpartiet,10,10,100
+"Mathisen, Øystein",Arbeiderpartiet,92,92,100
+"Molberg, Anna",Høyre,92,92,100
+"Myrvold, Hans Inge",Senterpartiet,92,92,100
+"Nilsen, Marius Arion",Fremskrittspartiet,92,92,100
+"Lauvås, Stein Erik",Arbeiderpartiet,10,10,100
+"Nordli, Ramani",Arbeiderpartiet,10,10,100
+"Næss, Marianne Sivertsen",Arbeiderpartiet,92,92,100
+"Olsen, Dagfinn Henrik",Fremskrittspartiet,92,92,100
+"Orten, Helge",Høyre,92,92,100
+"Kristensen, Turid",Høyre,92,92,100
+"Prestbakmo, Ivar B.",Senterpartiet,92,92,100
+"Ropstad, Kjell Ingolf",Kristelig Folkeparti,92,92,100
+"Rødby, Else Marie",Senterpartiet,92,92,100
+"Rønaasen, Ole Mathias",Senterpartiet,10,10,100
+"Haarr, Margrethe",Senterpartiet,92,92,100
+"Hussaini, Mani",Arbeiderpartiet,92,92,100
+"Hartviksen, Ragnhild Male",Arbeiderpartiet,28,28,100
+"Steffensen, Roy",Fremskrittspartiet,92,92,100
+"Fylkesnes, Torgeir Knag",Sosialistisk Venstreparti,92,92,100
+"Tybring-Gjedde, Christian",Fremskrittspartiet,92,92,100
+"Fasteraune, Bengt",Senterpartiet,92,92,100
 "Sande, Erling",Senterpartiet,18,18,100
